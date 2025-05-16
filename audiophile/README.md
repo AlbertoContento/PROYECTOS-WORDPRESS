@@ -32,4 +32,4 @@ Este repositorio está bajo la licencia MIT. Consulta el archivo LICENSE para m�
 
 ## 🎨 Capturas de Pantalla 
 Aquí tienes una vista previa de cómo luce el proyecto:
-![Pantalla Principal](https://github.com/AlbertoContento/Instagram/blob/main/assets/Captura%20de%20pantalla.png)
+![Pantalla Principal](https://github.com/AlbertoContento/PROYECTOS-WORDPRESS/blob/main/audiophile/media/audiophile.png)
