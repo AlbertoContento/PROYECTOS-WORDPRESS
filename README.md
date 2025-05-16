@@ -4,17 +4,17 @@ Este repositorio contiene **3 proyectos WordPress** desarrollados como parte del
 Contenido de los Proyectos
 Este repositorio contiene los siguientes proyectos:
 
-### 1. **[PROYECTO01 - Hamburgueseria](https://github.com/AlbertoContento/PROYECTOS-PYTHON/tree/main/PROYECTO01-Texto%20a%20Voz)** 🍔
+### 1. **[PROYECTO01 - Hamburgueseria](https://github.com/AlbertoContento/PROYECTOS-WORDPRESS/tree/main/Hamburgueseria)** 🍔
 - Página web para una hamburguesería moderna.
 - Uso de Elementor y personalización completa del tema.
 - Sección de menú, contacto y localización integrada.
 
-### 2. **[PROYECTO02 - Audiophile](https://github.com/AlbertoContento/PROYECTOS-PYTHON/tree/main/PROYECTO02-%20Juego%20de%20Arcade%20Pong)** 🎧
+### 2. **[PROYECTO02 - Audiophile](https://github.com/AlbertoContento/PROYECTOS-WORDPRESS/tree/main/audiophile)** 🎧
 - E-commerce de productos de sonido (auriculares, altavoces...).
 - Integración con WooCommerce.
 - Tema premium configurado y adaptado.
 
-### 3. **[PROYECTO03 - Blog personal](https://github.com/AlbertoContento/PROYECTOS-PYTHON/tree/main/PROYECTO03%20-%20Prueba%20de%20Escritura%20Veloz)** ✍️
+### 3. **[PROYECTO03 - Blog personal](https://github.com/AlbertoContento/PROYECTOS-WORDPRESS/tree/main/blog)** ✍️
 - Blog con entradas organizadas por categorías.
 - Diseño minimalista y responsive.
 - Funcionalidades de comentarios, etiquetas y buscador.
@@ -40,6 +40,6 @@ Este repositorio contiene los siguientes proyectos:
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 ## 👨‍💻 Autor
-## Alberto Contento
-## Desarrollador Full-Stack en formación
+ Alberto Contento Guerrero
+ Desarrollador Full-Stack en formación
 **[GitHub](https://github.com/AlbertoContento) | [LinkedIn](https://www.linkedin.com/in/alberto-contento-guerrero/)**
