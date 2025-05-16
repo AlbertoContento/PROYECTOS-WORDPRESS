@@ -1,5 +1,6 @@
 # Archivos de entorno
 .env
+.json
 
 # Archivos de backup de All-in-One WP Migration
 *.wpress
