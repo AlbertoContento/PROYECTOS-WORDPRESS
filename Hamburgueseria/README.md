@@ -23,8 +23,10 @@ Sitio web para un restaurante especializado en hamburguesas artesanales, con men
 Este repositorio está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
 
 ### 📞 Contacto
-### Alberto Contento Guerrero
-### Desarrollador Full-Stack en formación
+Alberto Contento Guerrero
+
+Desarrollador Full-Stack en formación
+
 **[GitHub](https://github.com/AlbertoContento) | [LinkedIn](https://www.linkedin.com/in/alberto-contento-guerrero/)**
 
 ## 🎨 Capturas de Pantalla 
