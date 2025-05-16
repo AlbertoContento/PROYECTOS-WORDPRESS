@@ -41,5 +41,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 
 ## 👨‍💻 Autor
  Alberto Contento Guerrero
+ 
  Desarrollador Full-Stack en formación
+ 
 **[GitHub](https://github.com/AlbertoContento) | [LinkedIn](https://www.linkedin.com/in/alberto-contento-guerrero/)**
