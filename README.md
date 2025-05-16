@@ -1,4 +1,4 @@
-# 🍔🎧🍽️ Proyectos WordPress
+# 🍔🎧✍️ Proyectos WordPress
 Este repositorio contiene **3 proyectos WordPress** desarrollados como parte del máster Full-Stack. Cada uno representa un sitio web funcional con diseño personalizado, plugins configurados y funcionalidades únicas.
 
 Contenido de los Proyectos
