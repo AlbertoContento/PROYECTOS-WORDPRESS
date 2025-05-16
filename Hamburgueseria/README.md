@@ -31,4 +31,4 @@ Desarrollador Full-Stack en formación
 
 ## 🎨 Capturas de Pantalla 
 Aquí tienes una vista previa de cómo luce el proyecto:
-![Pantalla Principal](https://github.com/AlbertoContento/Instagram/blob/main/assets/Captura%20de%20pantalla.png)
+![Pantalla Principal](https://github.com/AlbertoContento/PROYECTOS-WORDPRESS/blob/main/Hamburgueseria/media/burguerconten.png)
