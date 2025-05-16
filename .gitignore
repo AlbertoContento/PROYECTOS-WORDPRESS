@@ -1,0 +1,27 @@
+# Archivos de entorno
+.env
+
+# Archivos de backup de All-in-One WP Migration
+*.wpress
+**/wp-content/ai1wm-backups/
+
+# Copias de seguridad personalizadas
+/copias_de_seguridad/
+**/backups/
+**/*.sql
+**/*.zip
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Node modules (si usas npm o frontend)
+node_modules/
+
+# Archivos de caché
+wp-content/cache/
+wp-content/uploads/cache/
+*.swp*

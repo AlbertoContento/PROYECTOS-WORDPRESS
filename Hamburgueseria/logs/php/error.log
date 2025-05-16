@@ -1,0 +1,127 @@
+[06-May-2025 09:40:25 UTC] Error de evento de reprogramación de cron para el gancho: action_scheduler_run_queue. Código de error: invalid_schedule. Mensaje de error: El evento programado no existe.. Datos: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[06-May-2025 09:49:42 UTC] Error de evento de reprogramación de cron para el gancho: action_scheduler_run_queue. Código de error: invalid_schedule. Mensaje de error: El evento programado no existe.. Datos: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[06-May-2025 10:14:59 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[06-May-2025 10:19:07 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 181
+[06-May-2025 10:19:07 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[06-May-2025 10:42:53 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 181
+[06-May-2025 15:56:18 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[06-May-2025 16:18:44 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[06-May-2025 16:24:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[06-May-2025 16:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[06-May-2025 16:27:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[06-May-2025 16:28:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[06-May-2025 16:37:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[06-May-2025 16:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[06-May-2025 16:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[06-May-2025 16:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[07-May-2025 10:42:28 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[07-May-2025 10:43:18 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[07-May-2025 10:44:14 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 181
+[07-May-2025 10:44:14 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[07-May-2025 10:46:12 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[07-May-2025 10:54:00 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 181
+[07-May-2025 10:54:00 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[07-May-2025 11:11:32 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 181
+[07-May-2025 11:25:05 UTC] PHP Warning:  unlink(icons8-calendario-50.png): No such file or directory in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\assets-manager\asset-types\icons\custom-icons.php on line 199
+[07-May-2025 15:27:18 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 181
+[07-May-2025 15:27:18 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[07-May-2025 15:48:32 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 181
+[07-May-2025 15:48:32 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[07-May-2025 15:51:36 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 181
+[07-May-2025 15:51:36 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[07-May-2025 16:11:30 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\theme-builder\classes\conditions-manager.php on line 181
+[07-May-2025 17:17:42 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 226
+[07-May-2025 17:17:42 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 233
+[07-May-2025 17:17:42 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 238
+[07-May-2025 17:17:42 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 244
+[07-May-2025 17:17:42 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 250
+[07-May-2025 17:17:42 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 271
+[07-May-2025 17:17:45 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 226
+[07-May-2025 17:17:45 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 233
+[07-May-2025 17:17:45 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 238
+[07-May-2025 17:17:45 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 244
+[07-May-2025 17:17:45 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 250
+[07-May-2025 17:17:45 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 271
+[07-May-2025 17:19:06 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 226
+[07-May-2025 17:19:06 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 233
+[07-May-2025 17:19:06 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 238
+[07-May-2025 17:19:06 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 244
+[07-May-2025 17:19:06 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 250
+[07-May-2025 17:19:06 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 271
+[07-May-2025 17:20:28 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 226
+[07-May-2025 17:20:28 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 233
+[07-May-2025 17:20:28 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 238
+[07-May-2025 17:20:28 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 244
+[07-May-2025 17:20:28 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 250
+[07-May-2025 17:20:28 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 271
+[07-May-2025 17:21:38 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 226
+[07-May-2025 17:21:38 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 233
+[07-May-2025 17:21:38 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 238
+[07-May-2025 17:21:38 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 244
+[07-May-2025 17:21:38 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 250
+[07-May-2025 17:21:38 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 271
+[07-May-2025 17:22:37 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 226
+[07-May-2025 17:22:37 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 233
+[07-May-2025 17:22:37 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 238
+[07-May-2025 17:22:37 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 244
+[07-May-2025 17:22:37 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 250
+[07-May-2025 17:22:37 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\elementor-pro\modules\posts\skins\skin-content-base.php on line 271
+[08-May-2025 16:11:47 UTC] PHP Warning:  Undefined array key "" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\woocommerce\src\StoreApi\Utilities\PaymentUtils.php on line 109
+[08-May-2025 16:15:45 UTC] PHP Warning:  Undefined array key "" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\woocommerce\src\StoreApi\Utilities\PaymentUtils.php on line 109
+[08-May-2025 16:30:13 UTC] PHP Warning:  Undefined array key "" in C:\Users\ALBERTILLO\Local Sites\restaurante\app\public\wp-content\plugins\woocommerce\src\StoreApi\Utilities\PaymentUtils.php on line 109
