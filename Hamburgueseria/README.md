@@ -1,5 +1,5 @@
 # 🍔 PROYECTO HAMBURGUESERÍA - Restaurante de hamburguesas Artesanales
-Aquí puedes ver el proyecto desplegado [Ver Web](https://burguerconten.pruebas-alberto.online/)
+Aquí puedes ver el proyecto desplegado [Ver](https://burguerconten.pruebas-alberto.online/)
 
 ### ⌨️ Descripción  
 Sitio web para un restaurante especializado en hamburguesas artesanales, con menú interactivo, galería de imágenes, formulario de reservas y diseño responsive, posicionamiento SEO, google maps, enlaces a redes sociales, uso de elementor.
